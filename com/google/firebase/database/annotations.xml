@@ -1,0 +1,7 @@
+<root>
+    <item
+        name='com.google.firebase.database.FirebaseDatabase com.google.firebase.database.DatabaseReference getReference()'>
+        <annotation name='org.jetbrains.annotations.NotNull' />
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
